@@ -46,7 +46,7 @@ I have trained the dataset using WordEmbedding for Neural Networks, using CountV
      |     86.98%         |     83.95%          |
      
   * Using CountVectorizer()
-     |                     |   Training accuracy  | 
+     |                     |   Accuracy           | 
      | -----------------   |   -----------------  | 
      | Logistic Regression |       83.07%         | 
      |  KNN                |       64.09%         | 
