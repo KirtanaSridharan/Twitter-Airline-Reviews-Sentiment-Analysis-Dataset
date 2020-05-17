@@ -31,9 +31,9 @@ The dataset originally consists of 15 columns. These are :
 Sentiment analysis is performed on the dataset to predict the sentiments of the reviews - positive or negative.
 
 You can view the notebooks uploaded in the same repository in the given order: 
-1. Twitter airline sentiment analysis - Visualisation
-2. Twitter airline sentiment analysis - Model Training 1
-3. Twitter airline sentiment analysis - Model Training 2
+1. [Twitter airline sentiment analysis - Visualisation](https://colab.research.google.com/drive/18h85gbCA87ZIfnVTD_ax9TAglGKn0slg?usp=sharing)
+2. [Twitter airline sentiment analysis - Model Training 1](https://colab.research.google.com/drive/15_5z-ak0sYNAoD0alqpjzgpIMDCHP55k?usp=sharing)
+3. [Twitter airline sentiment analysis - Model Training 2](https://colab.research.google.com/drive/1SIirL8HeS4HCCmNBREof3nX1D9kzGM9R?usp=sharing)
 
 
 ### Results : 
